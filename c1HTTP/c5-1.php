@@ -5,13 +5,13 @@
 <!-- Unlink -->
 <!-- Filesize -->
 <!-- Rewind -->
-<?php 
+<!-- <?php  -->
 
-$filename = 'fajl.txt';
+// $filename = 'fajl.txt';
 
-$fh = fopen($filename,'a+');
+// $fh = fopen($filename,'a+');
 
-fwrite($fh, 'Vrska nemate od PHP! ');
+// fwrite($fh, 'Vrska nemate od PHP! ');
 
 
- ?>
+ <!-- ?> -->
