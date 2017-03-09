@@ -2,18 +2,14 @@
 <!-- funkcija sto ke gi trga site prazni mesta i karakteri (so str_replace- zamenuva bilo sto so bilo sto drugo. vo php)-->
 <!-- da napisheme testovi za funkcijata -->
 <!-- i za sve ova treba test funkcii za funkciite fq -->
-
+ 
 
 
 <?php 
 
 
-function sobiranje ($a , $b){
-	
+function sobiranje ($a , $b){	
 	return $a + $b;
-
-
- echo sobiranje( 5 , 5);
 
 
 $niza = array('a', 'b', 'expected')
